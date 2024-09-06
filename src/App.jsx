@@ -9,7 +9,7 @@ import Nav from "./Components/Nav";
 <Nav/>
 
 
-<section className="xl:padding-1 wide:padding-r padding-b">
+<section className="xl:padding-l wide:padding-r padding-b">
 
   <Hero/>
 
@@ -34,7 +34,7 @@ import Nav from "./Components/Nav";
 <CustomerReviews/>
 </section>
 
-<section className="padding-x sm:py-32 py-16 w-full">
+<section className='padding-x sm:py-32 py-16 w-full'>
 <Subscribe/>
 </section>
 
